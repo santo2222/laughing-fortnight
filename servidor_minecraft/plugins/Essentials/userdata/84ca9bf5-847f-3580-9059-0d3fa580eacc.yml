@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.124.7.55
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1760132388515
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1760132606894
+  login: 1760132811290
+money: '0'
+last-account-name: Rompe_hogar
+lastlocation:
+  world: f208ce6b-73a8-4e74-b3e9-087637bf75fd
+  world-name: world
+  x: -24.630516993683532
+  y: 78.16610926093821
+  z: -60.33287292886198
+  yaw: -156.0889434814453
+  pitch: 31.431026458740234
+logoutlocation:
+  world: 933a581d-59e1-4cc6-bc00-19315a7a5687
+  world-name: world_nether
+  x: -38.42422788861043
+  y: 35.0
+  z: 36.68688975144784
+  yaw: -171.62725830078125
+  pitch: 14.352790832519531
